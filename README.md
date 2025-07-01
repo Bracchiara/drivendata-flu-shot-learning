@@ -1,19 +1,14 @@
-Predição de H1N1 e Vacinas de Gripe Sazonal
-Este repositório contém a solução desenvolvida para a competição Predict H1N1 and Seasonal Flu Vaccines hospedada no DrivenData.org. O objetivo é prever a probabilidade de uma pessoa tomar as vacinas de H1N1 e gripe sazonal com base em dados demográficos, de saúde e comportamentais.
+# 🦠 Predição de H1N1 e Vacinas de Gripe Sazonal
 
-📋 Descrição do Problema
-A tarefa consiste em prever duas variáveis de resposta:
+Este repositório contém a solução desenvolvida para a competição **[Predict H1N1 and Seasonal Flu Vaccines](https://www.drivendata.org/competitions/)** hospedada no DrivenData.org. O objetivo é prever a probabilidade de uma pessoa tomar as vacinas de H1N1 e gripe sazonal com base em dados demográficos, de saúde e comportamentais.  
 
-h1n1_vaccine: Probabilidade de tomar a vacina H1N1.
+---
 
-seasonal_vaccine: Probabilidade de tomar a vacina da gripe sazonal.
+## 📋 Descrição do Problema
 
-Os dados fornecem informações sobre diversos fatores, incluindo:
+A tarefa consiste em prever **duas variáveis de resposta**:  
+- 🧪 **h1n1_vaccine:** Probabilidade de tomar a vacina H1N1.  
+- 💉 **seasonal_vaccine:** Probabilidade de tomar a vacina da gripe sazonal.  
 
-Demografia
-
-Percepções de saúde
-
-Comportamento em relação a vacinas
-
-Informações socioeconômicas
+Os dados incluem informações como:  
+👤 Demografia | 🏥 Percepções de saúde | 🧠 Comportamento | 💵 Socioeconomia  
